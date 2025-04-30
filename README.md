@@ -29,4 +29,6 @@
 ![](https://picturebucket-1357412479.cos.ap-nanjing.myqcloud.com/%E5%9B%BE%E7%89%87/20250501025953.png)
     （8）矩阵的迹
 ![](https://picturebucket-1357412479.cos.ap-nanjing.myqcloud.com/%E5%9B%BE%E7%89%87/20250501030006.png)
-    
+## 3.自学过程作业
+    camke和makefile的实现
+![](https://picturebucket-1357412479.cos.ap-nanjing.myqcloud.com/%E5%9B%BE%E7%89%87/20250501033644.png)

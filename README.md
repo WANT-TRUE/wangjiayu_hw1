@@ -16,19 +16,26 @@
 ![](https://picturebucket-1357412479.cos.ap-nanjing.myqcloud.com/%E5%9B%BE%E7%89%87/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE(11).png)  
 
     (2)矩阵减法
-![](https://picturebucket-1357412479.cos.ap-nanjing.myqcloud.com/%E5%9B%BE%E7%89%87/20250501025634.png)
+![](https://picturebucket-1357412479.cos.ap-nanjing.myqcloud.com/%E5%9B%BE%E7%89%87/20250501025634.png)  
+
     （3）矩阵乘法
-![](https://picturebucket-1357412479.cos.ap-nanjing.myqcloud.com/%E5%9B%BE%E7%89%87/20250501025703.png)
+![](https://picturebucket-1357412479.cos.ap-nanjing.myqcloud.com/%E5%9B%BE%E7%89%87/20250501025703.png)  
+
     （4）矩阵数乘
-![](https://picturebucket-1357412479.cos.ap-nanjing.myqcloud.com/%E5%9B%BE%E7%89%87/20250501025721.png)
+![](https://picturebucket-1357412479.cos.ap-nanjing.myqcloud.com/%E5%9B%BE%E7%89%87/20250501025721.png)  
+
     （5）矩阵转置
-![](https://picturebucket-1357412479.cos.ap-nanjing.myqcloud.com/%E5%9B%BE%E7%89%87/20250501025741.png)
+![](https://picturebucket-1357412479.cos.ap-nanjing.myqcloud.com/%E5%9B%BE%E7%89%87/20250501025741.png)  
+
     （6）矩阵的行列式
-![](https://picturebucket-1357412479.cos.ap-nanjing.myqcloud.com/%E5%9B%BE%E7%89%87/20250501025932.png)
+![](https://picturebucket-1357412479.cos.ap-nanjing.myqcloud.com/%E5%9B%BE%E7%89%87/20250501025932.png)  
+
     （7）矩阵的秩
-![](https://picturebucket-1357412479.cos.ap-nanjing.myqcloud.com/%E5%9B%BE%E7%89%87/20250501025953.png)
+![](https://picturebucket-1357412479.cos.ap-nanjing.myqcloud.com/%E5%9B%BE%E7%89%87/20250501025953.png)  
+
     （8）矩阵的迹
-![](https://picturebucket-1357412479.cos.ap-nanjing.myqcloud.com/%E5%9B%BE%E7%89%87/20250501030006.png)
+![](https://picturebucket-1357412479.cos.ap-nanjing.myqcloud.com/%E5%9B%BE%E7%89%87/20250501030006.png)  
+
 ## 3.自学过程作业
     camke和makefile的实现
 ![](https://picturebucket-1357412479.cos.ap-nanjing.myqcloud.com/%E5%9B%BE%E7%89%87/20250501033644.png)

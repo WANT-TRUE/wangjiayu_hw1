@@ -1,5 +1,6 @@
-#include"print.h"
+#include "print.h"
+
 void print()
 {
-    printf("Hello Xlab!");
+    printf("Hello World!");
 }
